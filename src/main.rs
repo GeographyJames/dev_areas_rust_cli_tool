@@ -1,4 +1,4 @@
 fn main() {
-    let unused_variable = 10;
+    let _unused_variable = 10;
     println!("Hello, world!");
 }
