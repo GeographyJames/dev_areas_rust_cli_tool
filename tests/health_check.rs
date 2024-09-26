@@ -1,5 +1,4 @@
 use assert_cmd::Command;
-use predicates::prelude::predicate;
 
 #[test]
 fn fails_if_no_arguments_given() {
